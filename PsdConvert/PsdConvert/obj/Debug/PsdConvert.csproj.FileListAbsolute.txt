@@ -1,0 +1,15 @@
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\bin\Debug\PsdConvert.exe.config
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\bin\Debug\PsdConvert.exe
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\bin\Debug\PsdConvert.pdb
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\bin\Debug\Magick.NET-Q16-HDRI-AnyCPU.dll
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\bin\Debug\Magick.NET-Q16-HDRI-AnyCPU.xml
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\obj\Debug\PsdConvert.csprojResolveAssemblyReference.cache
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\obj\Debug\PsdConvert.Form1.resources
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\obj\Debug\PsdConvert.Properties.Resources.resources
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\obj\Debug\PsdConvert.csproj.GenerateResource.Cache
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\obj\Debug\PsdConvert.exe
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\obj\Debug\PsdConvert.pdb
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\bin\Debug\Endogine.dll
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\bin\Debug\Endogine.Editors.dll
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\bin\Debug\System.Drawing.PSD.dll
+c:\users\vr2\documents\visual studio 2017\Projects\PsdConvert\PsdConvert\bin\Debug\System.Drawing.PSD.pdb
